@@ -1,0 +1,25 @@
+body {
+    background-color: #F6F6F6;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+img {
+    width: 15%;
+    height: auto;
+}
+h1 {
+    color: #FFC7C7;
+    font-size: 200%;
+    font-family: 'Sacramento', cursive;
+}
+p {
+    color: #8785A2;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    color: #FFE2E2;
+}
+.top-container{
+    margin-top: 100px;
+}
