@@ -30,7 +30,7 @@ h1 {
 }
 h2 {
     font-size: 300%;
-    color: #FFC7C7;
+    color: #f169698a;
     font-family: 'Montserrat', sans-serif;
 }
 h3 {
@@ -45,6 +45,7 @@ p {
     font-size: 115%;
     color: #794141;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 #top-container{
     position: relative;
@@ -122,3 +123,50 @@ hr{
     padding-bottom: 3%;
     color: white;
 }
+
+.c-item{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.contact-me{
+    margin-bottom: 2%;
+}
+.footer-link{
+    margin-right: 1%;
+    margin-left: 1%;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: white;
+}
+#hello{
+    margin-top: 2%;
+    margin-bottom: 7%;
+}
+.btn {
+    background: #fad3d3;
+    background-image: -webkit-linear-gradient(top, #fad3d3, #FFC7C7);
+    background-image: -moz-linear-gradient(top, #fad3d3, #FFC7C7);
+    background-image: -ms-linear-gradient(top, #fad3d3, #FFC7C7);
+    background-image: -o-linear-gradient(top, #fad3d3, #FFC7C7);
+    background-image: linear-gradient(to bottom, #fad3d3, #FFC7C7);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FFC7C7;
+    background-image: -webkit-linear-gradient(top, #FFC7C7, #f07171);
+    background-image: -moz-linear-gradient(top, #FFC7C7, #f07171);
+    background-image: -ms-linear-gradient(top, #FFC7C7, #f07171);
+    background-image: -o-linear-gradient(top, #FFC7C7, #f07171);
+    background-image: linear-gradient(to bottom, #FFC7C7, #f07171);
+    text-decoration: none;
+  }
